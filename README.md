@@ -9,6 +9,8 @@ Ronald Alexander Alberto Torres [AT202297] 👨‍💻
 
 Nelson Ernesto Muñoz Barahona [MB192012] 👨‍💻
 
+Daniel Alejandro Orellana Velasquez [OV201714] 👨‍💻
+
 Christian Rodrigo Ardón Rivas [AR160127] 👨‍💻
 
 # Enlaces   _🔗
