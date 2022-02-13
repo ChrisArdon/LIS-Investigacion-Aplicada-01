@@ -1,12 +1,12 @@
 <?php
-    $conex = mysqli_connect('localhost','root','','mvc');
+    $conex = mysqli_connect('localhost','root','','mvc1');
 
 
     class Conection{
         private $con;
         public function __construct()
         {
-            $this->con = new mysqli('localhost','root','','mvc');
+            $this->con = new mysqli('localhost','root','','mvc1');
         }
 
         public function ObtenerDatos()
