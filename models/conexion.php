@@ -1,12 +1,11 @@
 <?php
-    $conex = mysqli_connect('localhost','root','','mvc1');
-
+    $conex = mysqli_connect('localhost','root','','mvc');
 
     class Conection{
         private $con;
         public function __construct()
         {
-            $this->con = new mysqli('localhost','root','','mvc1');
+            $this->con = new mysqli('localhost','root','','mvc');
         }
 
         public function ObtenerDatos()
@@ -24,7 +23,5 @@
         }
         
     }
-
-
 
 ?>

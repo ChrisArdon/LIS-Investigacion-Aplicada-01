@@ -19,17 +19,7 @@
             </tr>
         </thead>
         <tbody>
-            <?php 
-           /* foreach($personas as $person){
-                echo "<tr>";
-                echo "<td>".$person['id']."</td>";
-                echo "<td>".$person['name']."</td>";
-                echo "<td>".$person['lastname']."</td>";
-                echo "<td>".$person['age']."</td>";
-                echo "<td>".$person['phonenumber']."</td>";
-                echo "<td>".$person['email']."</td>";                
-                echo "</tr>";
-            }*/
+            <?php            
             foreach($registro as $dato){
                 $id = $dato['id'];
                 $nombre = $dato['name'];
@@ -44,17 +34,8 @@
                 echo "<td>".$dato['age']."</td>";
                 echo "<td>".$dato['phonenumber']."</td>";
                 echo "<td>".$dato['email']."</td>";                
-                echo "</tr>";          
-
-               
-             //echo " ".$nombre." ";
-             
-
+                echo "</tr>";       
             }
-
-         
-            
-
             ?>
         </tbody>
     </table>    

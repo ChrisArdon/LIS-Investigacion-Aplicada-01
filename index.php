@@ -11,7 +11,6 @@
     <link type="text/css" rel="stylesheet" href="css/icons.css" media="screen,projection" />
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
     <!--  archivos css-->
     <link type="text/css" rel="stylesheet" href="css/materialize.min.css" media="screen,projection" />
     <link type="text/css" rel="stylesheet" href="css/mystyle-sheet.css" media="screen,projection" />
@@ -24,8 +23,6 @@
                 <h3>Formulario de registro</h3>
                 <span class="center-line blue"></span>
             </div>
-
-
             <form autocomplete='off' method='POST'>
                 <!-- Muestra la info personal -->
                 <div class='row'>
@@ -63,10 +60,7 @@
             </form>
             <?php
             include("controllers/person.php");
-
             ?>
-
-
         </div>
     </div>
     <!-- JavaScripts -->

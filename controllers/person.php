@@ -1,11 +1,6 @@
 <?php
 
   include("models/conexion.php");
- /*
-  if ($conex) {
-      echo "Nice";
-  }
-  */
 
   if (isset($_POST['register'])) {
     if (strlen($_POST['txtName']) >= 1 && strlen($_POST['txtLastName']) >= 1 && strlen($_POST['txtAge']) >= 1 && strlen($_POST['txtPhoneNumber']) >= 1 && strlen($_POST['txtEmail']) >= 1) {
