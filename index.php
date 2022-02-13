@@ -29,7 +29,7 @@
                     <div class='input-field col s12 m4'>
                         <i class='material-icons prefix'>face</i>
                         <input id='txtName' type='text' name="txtName" min='1' max='31' class='validate' pattern="[a-zA-ZàáâäãåąčćęèéêëėįìíîïłńòóôöõøùúûüųūÿýżźñçčšžÀÁÂÄÃÅĄĆČĖĘÈÉÊËÌÍÎÏĮŁŃÒÓÔÖÕØÙÚÛÜŲŪŸÝŻŹÑßÇŒÆČŠŽ∂ð ,.'-]{2,48}" title="El campo debe contener solo caracteres de letras." required />
-                        <label for='txtName'>Ingrese su nombre</label>                       
+                        <label for='txtName'>Ingrese su nombre</label>
                     </div>
                     <div class='input-field col s12 m4'>
                         <i class='material-icons prefix'>face</i>
@@ -68,6 +68,14 @@
     <!-- Importar materialiaze.js -->
     <script type="text/javascript" src="js/materialize.min.js"></script>
     <script type="text/javascript" src="js/myjs.js"></script>
+
+    <footer class="center-txt">
+        <hr>
+        <small>Copyright 2022. Universidad Don Bosco</small>
+        <h6>Desarrollado por: </h6>
+        <h6>Luis Cañas | Ronald Alberto | Nelson Muñoz | Daniel Orellana | Christian Ardon</h6>
+        <hr>
+    </footer>
 </body>
 
 </html>
