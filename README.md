@@ -1,5 +1,5 @@
 # Modelo Vista Controlador (MVC)
-Investigación aplicada 01 de la materia Lenguajes Interpretados en el Servidor (LIS) - Ciclo 02 2022
+Investigación aplicada 01 de la materia Lenguajes Interpretados en el Servidor (LIS) - Ciclo 01 2022
 
 # Integrantes 👥
 
@@ -16,3 +16,4 @@ Christian Rodrigo Ardón Rivas [AR160127] 👨‍💻
 # Enlaces   _🔗
 
 *Video: 
+https://drive.google.com/drive/folders/1dE5Pi6jdM8BP9IdS-exeXgKzdCTM-NFO?usp=sharing
