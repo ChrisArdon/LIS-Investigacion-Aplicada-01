@@ -17,4 +17,5 @@ Christian Rodrigo Ardón Rivas [AR160127] 👨‍💻
 
 *Video: 
 https://drive.google.com/drive/folders/1dE5Pi6jdM8BP9IdS-exeXgKzdCTM-NFO?usp=sharing
+
 INFOGRAFÍA: https://view.genial.ly/6204a13087dd10001826c843/interactive-content-info-vibrant-pro
